@@ -2,7 +2,7 @@
 Digital Forensics Ground Truth Data for ISO testing and accreditation. 
 
 
-FILE NAME : SHA256 HASH
+FILE NAME : SHA256 HASH 
 
 IMAGES:
 JPG.jpg		47dda9cf618577c43d6d346ce2ccfda2b5895f08f957f351419f49454c61a688		
